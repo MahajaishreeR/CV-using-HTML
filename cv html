@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <title>
+		</title>
+	</head>
+	<body>
+        <h1>Mahajaishree R </h1>
+		<p><strong>Student</strong></p>
+		<img src="https://www.shareicon.net/data/512x512/2016/05/24/770088_people_512x512.png" height = "15%" width ="15%" alt =" "/>
+		<hr/>
+		<h2><i>Summary</i></h2>
+		<p>Learning new Marketing Strategy and implementation of problem solving techniques.<br>Working in a team , keeping a team spirit high.</p>
+		<h2><i>Academic Qualification</i></h2>
+		<ul>
+		<p>
+		<li><b>B.Tech 3rd year</b><br>
+Thiagarajar College of Engineering,Thiruparankundram</li>
+<li><b>HSC - 91% </b><br>
+Viveka Matric Higher Secondary School,Sivagiri, Tamil Nadu</li>
+<li><b>SSLC - 95.8%</b><br>
+Viveka Matric Higher Secondary School</li>
+</ul> 
+
+<h2><i>Skills</i></h2>
+<table border = "2">
+<tr>
+<td> <big><b>Personal skills</b></big></td>
+<td>  Positive attitude  </td>
+<td>  Smart work  </td>
+<td>  Team spirit  </td>
+</tr>
+<tr>
+	<td> <big><b>Technical  skills</b></big></td>
+<td>  C </td>
+<td>  C++ </td>
+<td>  Python  </td>
+</tr>
+</table>
+<h2><i>Contacts</i></h2>
+<a href="https://www.linkedin.com/in/mahajaishree-r-6069011bb" target="_blank">Linkedin</a><br>
+<a href="https://www.sololearn.com/profile/26481591" target="_blank">sololearn</a>
+	<h2><i>Write me a message </i></h2>
+<form>
+    <input placeholder="Name"/><br>
+    <input placeholder="Email"/><br>
+    <textarea placeholder="Message" required ></textarea><br>
+    <input type="submit" value="SEND"/>
+</form>
+	</body>
+</html>
